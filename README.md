@@ -17,6 +17,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Canmi21&theme=dracula&exclude=html,Gerber%20Image" alt="Most Commit Language" style="flex: 1; max-width: 50%;">
 </div>
 
+
+<div align="center">
+    <img src="https://wakatime.com/share/@07e3a8ca-7833-4f87-8c30-3dd9391a92ad/6eb5c408-e8d2-4b6f-b96c-a46468ac74bd.svg" alt="Wakatime" style="max-width: 100%; width: 685px;">
+</div>
+
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake-dark.svg">
@@ -24,32 +29,6 @@
       <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Canmi21/Canmi21/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
-
-<!--
-<p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=Canmi21&column=5&margin-w=5&margin-h=5&theme=discord"/>
-</p>
--->
-
-<!--
-![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Canmi21&layout=compact&include_all_commits=true&theme=merko)
--->
-
-<!--
-**Canmi21/Canmi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!-- ## Hi there 👋 -->
 
